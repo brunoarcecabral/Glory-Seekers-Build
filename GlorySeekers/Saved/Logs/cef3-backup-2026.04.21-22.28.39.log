@@ -1,0 +1,34 @@
+[19864:21196:0421/153956.271:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19864:14720:0421/153956.588:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19864:21196:0421/153956.681:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20148:15672:0421/154009.805:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9ECE6B5006F7B7FEF50FC19F6496CE0B will be ignored
+[19864:17020:0421/154010.611:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19864:17020:0421/162947.849:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19864:17020:0421/163028.828:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19864:17020:0421/163030.116:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19864:17020:0421/163534.129:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19864:17020:0421/163534.561:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19864:21196:0421/164106.425:ERROR:device_event_log_impl.cc(196)] [16:41:06.222] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[19864:17020:0421/164133.490:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19864:17020:0421/164133.492:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[4868:10300:0421/183739.034:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19864:14720:0421/183739.875:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4868:10300:0421/183744.047:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19864:14720:0421/183744.879:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4868:10300:0421/183754.055:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19864:9820:0421/183754.882:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4868:10300:0421/183758.459:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19864:9820:0421/183758.459:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19864:14720:0421/183803.461:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4868:10300:0421/183803.477:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19864:17020:0421/183817.826:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19864:17020:0421/183817.880:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19864:21196:0421/183824.104:ERROR:device_event_log_impl.cc(196)] [18:38:23.909] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[4868:10300:0421/183838.260:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19864:14720:0421/183838.268:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4868:10300:0421/183843.267:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19864:14720:0421/183843.270:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19864:17020:0421/183900.509:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19864:17020:0421/183903.847:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19864:21196:0421/185122.894:ERROR:device_event_log_impl.cc(196)] [18:51:22.765] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[19864:17020:0421/192839.438:ERROR:cast_crl.cc(443)] CRL - Verification failed.

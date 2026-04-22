@@ -1,0 +1,11 @@
+[17720:1336:0422/123603.845:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17720:24476:0422/123604.041:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17720:1336:0422/123604.166:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17720:1336:0422/123625.382:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17720:1336:0422/123628.436:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 6-A435A4CF6855120DAA9B80D520B5C105 (has_rfh=1)
+[18520:19388:0422/123628.463:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-78E8312FAD095BF9D9A7302A774D64F3 will be ignored
+[17720:22536:0422/123628.734:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2716:23792:0422/123628.735:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 13
+[17720:1336:0422/123800.758:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17720:22536:0422/125159.772:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17720:1336:0422/131134.032:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

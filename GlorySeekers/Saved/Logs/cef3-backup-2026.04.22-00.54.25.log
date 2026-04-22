@@ -1,0 +1,14 @@
+[11692:6196:0421/214741.172:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11692:19052:0421/214741.237:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11692:6196:0421/214741.279:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15972:14048:0421/214753.256:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15972:14048:0421/214753.273:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11692:16936:0421/214753.415:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[11692:6196:0421/214753.829:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 6-FEE9B79593362B54C002C564C04B4295 (has_rfh=1)
+[3448:15952:0421/214753.860:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-24FFB6FA5E65DFC514484B3F33967C55 will be ignored
+[15972:14048:0421/214754.186:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15972:14048:0421/214754.207:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15972:14048:0421/214755.850:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11692:6196:0421/214815.059:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15972:14048:0421/214817.901:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11692:6196:0421/215425.900:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

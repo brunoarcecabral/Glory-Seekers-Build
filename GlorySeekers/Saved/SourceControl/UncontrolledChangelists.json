@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/PROYECTOS UNREAL/MyProject/Content/MyMyAAAAAAACTOR.uasset",
+				"C:/PROYECTOS UNREAL/MyProject/Content/Input/IMC_Default.uasset",
+				"C:/PROYECTOS UNREAL/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/PROYECTOS UNREAL/MyProject/Content/MisBLUEPRINTS/BP_ItemAltar.uasset",
+				"C:/PROYECTOS UNREAL/MyProject/Content/Input/Actions/IA_Interactuar.uasset",
+				"C:/PROYECTOS UNREAL/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/SY/HHZTISI5S1U7S64XEQRVBG.uasset",
+				"C:/PROYECTOS UNREAL/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/V9/AK7GZCNC5E86J3ZQFN55RS.uasset",
+				"C:/PROYECTOS UNREAL/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/BU/KQ5UCVZ96ZS9XI116V54U2.uasset",
+				"C:/PROYECTOS UNREAL/MyProject/Content/MisBLUEPRINTS/BP_ItemPuerta.uasset",
+				"C:/PROYECTOS UNREAL/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/Q0/FIYBB8J44QYL7GOLIGIPPZ.uasset",
+				"C:/PROYECTOS UNREAL/MyProject/Content/Input/Actions/IA_Interactuando.uasset"
+			]
+		}
+	]
+}
