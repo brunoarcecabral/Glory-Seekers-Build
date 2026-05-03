@@ -27,6 +27,8 @@ public:
 
 private:	
 	
+	//CONOCER ALTARES----------------------------------------------------------------------------------------------------------------------------------------------------------
+	
 	UPROPERTY(EditAnywhere, Category = "Components")
 	TObjectPtr<class UBoxComponent> BoxCollision;
 	

@@ -13,6 +13,8 @@ AItemAltar::AItemAltar()
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 	
+	
+	//MESHES Y SPHERES------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	SphereCollision = CreateDefaultSubobject<USphereComponent>("SphereCollision");
 	RootComponent = SphereCollision;
 	
@@ -31,8 +33,15 @@ void AItemAltar::BeginPlay()
 void AItemAltar::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	
+	//EL BROADCAST MANDA UN MENSAJE, USAMOS EL TIMER--------------------------------------------------------------------------------------------------------------------------------
 
 }
+
+void AItemAltar::Interactuar_Implementation()
+{
+}
+
 void AItemAltar::ActivarAltar()
 {
 	OnAltarActivado.Broadcast();
@@ -41,7 +50,7 @@ void AItemAltar::ActivarAltar()
 }
 void AItemAltar::Interact_Implementation(AActor* Actor)
 {
-	GEngine->AddOnScreenDebugMessage(-1, 4.f, FColor::Red, "ItemAltar Interactuando, esperar 3 segundos");
+	GEngine->AddOnScreenDebugMessage(-1, 4.f, FColor::Red, "ItemAltar Interactuando, esperar 5 segundos");
 	
 	//Condiciones del timmer
 	

@@ -1,9 +1,21 @@
-[16964:10088:0422/183820.385:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16964:24572:0422/183820.454:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[16964:10088:0422/183820.504:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[20780:18080:0422/183836.636:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-56ED569D8A323AD91ADDBA3C3AD37510 will be ignored
-[16964:10088:0422/183837.246:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16964:17708:0422/183839.712:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[16964:17708:0422/183840.040:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[16964:10088:0422/183841.912:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16964:10088:0422/184553.534:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[29508:27856:0423/130022.656:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29508:2492:0423/130022.900:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29508:27856:0423/130023.032:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30456:25892:0423/130032.065:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ED2AC70B29C476A843DF2E961A4F653D will be ignored
+[29508:30032:0423/130032.492:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[29508:30032:0423/131814.239:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[29508:30032:0423/131856.003:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2192:25944:0423/172148.999:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29508:2492:0423/172149.046:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29508:2492:0423/172149.076:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[2192:30276:0423/172149.089:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29508:27856:0423/172153.812:ERROR:device_event_log_impl.cc(196)] [17:21:53.268] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[29508:2492:0423/172154.079:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[2192:30276:0423/172154.095:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29508:23264:0423/172204.083:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[2192:30276:0423/172204.112:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29508:2492:0423/172209.699:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[2192:30276:0423/172209.699:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29508:2492:0423/172214.703:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[2192:30276:0423/172214.720:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29508:27856:0423/172224.151:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

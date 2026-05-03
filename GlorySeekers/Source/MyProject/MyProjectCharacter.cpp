@@ -69,7 +69,7 @@ void AMyProjectCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInput
 		// Looking
 		EnhancedInputComponent->BindAction(LookAction, ETriggerEvent::Triggered, this, &AMyProjectCharacter::Look);
 		
-		// Interact
+		// Interact----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		EnhancedInputComponent->BindAction(InteractAction, ETriggerEvent::Started, this, &AMyProjectCharacter::InteractOtherActor);
 	}
 	else
@@ -148,6 +148,9 @@ void AMyProjectCharacter::DoJumpEnd()
 {
 	// signal the character to stop jumping
 	StopJumping();
+	
+	
+	//OVERLAP ACTOR---------------------------------------------------------------------------------------------------------------------------------------------------------
 }	
 	void AMyProjectCharacter::InteractOtherActor()
 	{

@@ -8,7 +8,7 @@
 #include "ItemAltar.generated.h"
 
 class USphereComponent;
-//FUNCION QUE DETECTA ACTIVACION
+//FUNCION QUE DETECTA ACTIVACION/EVENT DISPATCHER---------------------------------------------------------------------------------------------------------------------------
 DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnAltarActivado);
 
 UCLASS()
@@ -27,6 +27,12 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+	
+	UFUNCTION(BlueprintNativeEvent, BlueprintCallable, Category = "Interacción")
+	void Interactuar();
+	
+	UFUNCTION(BlueprintImplementableEvent, Category = "Efectos Visuales")
+	void AlRecibirDanio(float CantidadDanio); // NO se le hace código en el .cpp
 	
 	UFUNCTION()
 	virtual void Interact_Implementation(AActor* Actor) override;

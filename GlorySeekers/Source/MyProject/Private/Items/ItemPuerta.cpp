@@ -28,6 +28,8 @@ void AItemPuerta::BeginPlay()
 	
 	CantidaddeAltares = Items.Num();
 	
+	//LA PUERTA ESCUCHA LOS EVENTOS--------------------------------------------------------------------------------------------------------------------------------------------.
+	
 	for (AItemAltar*Altar : Items)
 	{
 		if (Altar)
@@ -44,6 +46,7 @@ void AItemPuerta::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 }
+//LOGICA DE ACTIVACION FINAL------------------------------------------------------------------------------------------------------------------------------------------------------
 
 void AItemPuerta::OnAltarActivation()
 {
