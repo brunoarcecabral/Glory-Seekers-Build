@@ -1,21 +1,15 @@
-[29508:27856:0423/130022.656:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[29508:2492:0423/130022.900:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[29508:27856:0423/130023.032:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[30456:25892:0423/130032.065:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ED2AC70B29C476A843DF2E961A4F653D will be ignored
-[29508:30032:0423/130032.492:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[29508:30032:0423/131814.239:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[29508:30032:0423/131856.003:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[2192:25944:0423/172148.999:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[29508:2492:0423/172149.046:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[29508:2492:0423/172149.076:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[2192:30276:0423/172149.089:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[29508:27856:0423/172153.812:ERROR:device_event_log_impl.cc(196)] [17:21:53.268] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[29508:2492:0423/172154.079:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[2192:30276:0423/172154.095:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[29508:23264:0423/172204.083:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[2192:30276:0423/172204.112:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[29508:2492:0423/172209.699:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[2192:30276:0423/172209.699:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[29508:2492:0423/172214.703:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[2192:30276:0423/172214.720:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[29508:27856:0423/172224.151:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25604:17712:0901/104534.109:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25604:17712:0901/104534.247:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[25604:12548:0901/104534.335:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25604:17712:0901/104534.423:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25604:20724:0901/104551.019:WARNING:leveldb_database.cc(141)] Unable to open D:\Repositorios Github\Glory-Seekers-Build\GlorySeekers\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Repositorios Github\Glory-Seekers-Build\GlorySeekers\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25604:20724:0901/104551.023:WARNING:leveldb_database.cc(141)] Unable to open D:\Repositorios Github\Glory-Seekers-Build\GlorySeekers\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Repositorios Github\Glory-Seekers-Build\GlorySeekers\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25604:20724:0901/104551.025:WARNING:leveldb_database.cc(141)] Unable to open D:\Repositorios Github\Glory-Seekers-Build\GlorySeekers\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Repositorios Github\Glory-Seekers-Build\GlorySeekers\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25604:20724:0901/104551.027:WARNING:leveldb_database.cc(141)] Unable to open D:\Repositorios Github\Glory-Seekers-Build\GlorySeekers\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Repositorios Github\Glory-Seekers-Build\GlorySeekers\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11148:5756:0901/104559.137:ERROR:backend_impl.cc(989)] Critical error found -8
+[11148:5756:0901/104559.138:ERROR:entry_impl.cc(1029)] No file for b2020000
+[11148:5756:0901/104559.138:WARNING:storage_block-inl.h(138)] Failed data load.
+[25604:12548:0901/104559.283:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25604:12548:0901/104559.293:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24828:23120:0901/104600.261:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-73E241C1846051BA218B54A6E29A4991 will be ignored
+[25604:17712:0901/104638.865:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
